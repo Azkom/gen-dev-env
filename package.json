@@ -1,6 +1,6 @@
 {
   "name": "gen-dev-env",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "This is a general development environment, which uses npm, gulp and webpack.",
   "main": "index.js",
   "scripts": {
