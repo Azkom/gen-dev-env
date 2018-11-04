@@ -22,10 +22,10 @@
     "babel-preset-env": "^1.6.0",
     "browser-sync": "^2.18.13",
     "del": "^3.0.0",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.0",
     "gulp-cssnano": "^2.1.2",
-    "gulp-imagemin": "^3.3.0",
-    "gulp-modernizr": "^1.0.0-alpha",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-modernizr": "^3.0.0",
     "gulp-postcss": "^7.0.0",
     "gulp-rev": "^8.0.0",
     "gulp-uglify": "^3.0.0",
@@ -39,7 +39,7 @@
   },
   "dependencies": {
     "font-awesome": "^4.7.0",
-    "gulp-cli": "^1.4.0",
+    "gulp-cli": "^2.0.1",
     "jquery": "^3.2.1",
     "normalize.css": "^7.0.0"
   }
